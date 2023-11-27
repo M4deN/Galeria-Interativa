@@ -2,6 +2,10 @@
 
 Bem-vindo à Galeria Interativa Espacial, onde exploramos galáxias fictícias fascinantes. Cada galáxia tem sua própria história e beleza cósmica. Navegue pela galeria para descobrir esses mundos celestiais imaginários, utilizando HTML, CSS e Javascript.
 
+## Navegação Projeto
+
+https://github.com/M4deN/Galeria-Interativa/assets/43422425/c6d0933e-8d26-401d-b698-b8cbbb0a889c
+
 ## Galáxias Destacadas
 
 ### 1. "Galáxia Luminara"
@@ -16,7 +20,6 @@ Bem-vindo à Galeria Interativa Espacial, onde exploramos galáxias fictícias f
 
 ### 4. "Galáxia Aetheria"
 ![Galáxia Aetheria](https://wallpapers.com/images/hd/planet-in-a-colorful-outer-space-1e4f2o2mmscz9h1b.webp)
-
 
 
 ### 5. "Galáxia Azzurra"
@@ -36,3 +39,9 @@ Use os botões de navegação abaixo para explorar as diversas galáxias apresen
 - Seta para a Direita: Descubra a próxima galáxia.
 
 Aproveite sua jornada através das Galáxias Interativas! 🚀✨
+
+## Licença
+
+Este projeto é distribuído sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+
+---
